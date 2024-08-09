@@ -23,7 +23,7 @@ behind the sentiment data.
 
 ### **Top 5 products by overall number of reviews**
 
-![top-5-products]("top_5_products_by_number-of-reviews.png")
+![top-5-products]("/home/daniel/project_scrapy-002/top_5_products_by_number-of-reviews.png")
 
 ---
 
