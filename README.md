@@ -23,7 +23,7 @@ behind the sentiment data.
 
 ### **Top 5 products by overall number of reviews**
 
-![top-5-products](/project_scrapy-002/top_5_products_by_number-of-reviews.png)
+![top-5-products](./img/top_5_products_by_number-of-reviews.png)
 
 ---
 
@@ -44,7 +44,7 @@ May 2018 to July 2024).
 
 ### **Sentiment Analysis Overview**
 
-![sentiment-overview](/project_scrapy-002/sentiment-analysis-overview.png)
+![sentiment-overview](./img/sentiment-analysis-overview.png)
 
 ---
 
@@ -58,7 +58,7 @@ represents 7% of the total feedback.
 
 ### **Top 5 Garnier Products by percentage of Negative reviews**
 
-![top-5-by-negative-reviews](/project_scrapy-002/Top-5-products-percentage-negative-reviews.png)
+![top-5-by-negative-reviews](./img/Top-5-products-percentage-negative-reviews.png)
 
 ---
 #### **Summary:**
