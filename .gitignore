@@ -1,0 +1,6 @@
+*.env
+*config.py
+*.json
+*.csv
+*.png
+*.jpg
