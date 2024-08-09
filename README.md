@@ -44,7 +44,7 @@ May 2018 to July 2024).
 
 ### **Sentiment Analysis Overview**
 
-![sentiment-overview](./img/sentiment-analysis-overview.png)
+![sentiment-overview](./img/new-sentiment-analysis-overview.png)
 
 ---
 
