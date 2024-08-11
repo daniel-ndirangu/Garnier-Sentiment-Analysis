@@ -71,7 +71,7 @@ top 5, at 6.5% with an average rating of 4.4, indicating that it is generally we
 
 ### **Topics in Garnier Even & Matte Dark Spot Corrector's Negative Review**
 
-![topic-modelling](negative-reviews-topics.png)
+![topic-modelling](./img/Topic-piechart.png)
 
 ---
 
