@@ -42,20 +42,6 @@ May 2018 to July 2024).
 
 ---
 
-### **Sentiment Analysis Overview**
-
-![sentiment-overview](./img/new-sentiment-analysis-overview.png)
-
----
-
-#### **Sentiment breakdown**
-- The sentiment analysis for Garnier products reveals a predominantly
-positive response, with 82% of reviews reflecting positive sentiment.
-Negative sentiment accounts for 11%, while neutral sentiment
-represents 7% of the total feedback.
-
----
-
 ### **Top 5 Garnier Products by percentage of Negative reviews**
 
 ![top-5-by-negative-reviews](./img/Top-5-products-percentage-negative-reviews.png)
